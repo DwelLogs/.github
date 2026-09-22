@@ -1,4 +1,3 @@
-<!-- Copy to the public `.github` repo as profile/README.md -->
 <p align="center">
   <img src="https://dwellogs.com/brand/github-social-preview.png" alt="DwelLogs: everything your home needs, before it needs it" width="640">
 </p>
